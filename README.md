@@ -38,8 +38,5 @@ I am a Software Engineer with almost 3 years of experience.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/McPeakDev/GlucoseTracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McPeakDev&repo=GlucoseTracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/McPeakDev/Bike-Shop-Analytics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McPeakDev&repo=Bike-Shop-Analytics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/McPeakDev/GlucoseTracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McPeakDev&repo=GlucoseTracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/McPeakDev/Bike-Shop-Analytics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McPeakDev&repo=Bike-Shop-Analytics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/McPeakDev/Blog-Web-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McPeakDev&repo=Blog-Web-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
