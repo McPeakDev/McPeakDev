@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Software Engineer with almost 3 years of experience.
+I am a Software Engineer with over 3 years of experience.
 
 * 🌍  I'm based in Kingsport, TN
 * 🖥️  See my portfolio at [mcpeakdev.com](http://portfolio.mcpeakdev.com)
 * ✉️  You can contact me at [m.mcpeak98@icloud.com](mailto:m.mcpeak98@icloud.com)
-* 🧠  I'm learning Machine Learning
-
+* 🐍  I'm learning Python
 ### Skills
 
 
