@@ -9,7 +9,6 @@ I am a Software Engineer with over 3 years of experience.
 * 🌍  I'm based in Kingsport, TN
 * 🖥️  See my portfolio at [mcpeakdev.com](http://portfolio.mcpeakdev.com)
 * ✉️  You can contact me at [m.mcpeak98@icloud.com](mailto:m.mcpeak98@icloud.com)
-* 🐍  I'm learning Python
 ### Skills
 
 
